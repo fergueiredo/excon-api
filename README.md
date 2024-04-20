@@ -1,4 +1,4 @@
-![example workflow](https://github.com/fergueiredo/excon-api/actions/workflows/maven.yml/badge.svg)
+![example workflow](https://github.com/fergueiredo/excon-api/actions/workflows/build.yml/badge.svg)
 
 # ExCon - Expenses Controller
 
