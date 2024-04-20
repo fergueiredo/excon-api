@@ -1,3 +1,5 @@
+![example workflow](https://github.com/fergueiredo/excon-api/actions/workflows/maven.yml/badge.svg)
+
 # ExCon - Expenses Controller
 
 Welcome to Expense Controller API repository! This api is designed to help users manage their personal finances efficiently and effectively.
