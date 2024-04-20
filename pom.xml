@@ -8,14 +8,25 @@
         <version>3.2.4</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
+         
     <groupId>io.fergueiredo</groupId>
     <artifactId>excon</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>excon</name>
     <description>Expenses Controller API</description>
+         
     <properties>
         <java.version>17</java.version>
     </properties>
+
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub OWNER Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/fergueiredo/excon-api</url>
+        </repository>
+    </distributionManagement>
+         
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
